@@ -64,7 +64,7 @@ AuroraWin — это нативное WPF-приложение на PowerShell �
 ### 🚀 Установка и запуск
 
 #### Вариант 1. Готовый `.exe` (рекомендуется)
-1. Скачайте `AuroraWin.exe` со страницы [**Releases**](https://github.com/QwixxTwix/AuroraWin/releases)
+1. Скачайте `AuroraWin.exe`
 2. Поместите файл в **отдельную папку** (например, `D:\AuroraWin\`)
 3. Запустите **от имени администратора**
 
@@ -184,7 +184,7 @@ Before applying a profile — a dialog lets you uncheck unwanted operations, plu
 ### 🚀 Installation and launch
 
 #### Option 1. Ready `.exe` (recommended)
-1. Download `AuroraWin.exe` from the [**Releases**](https://github.com/QwixxTwix/AuroraWin/releases) page
+1. Download `AuroraWin.exe`
 2. Place the file in a **separate folder** (e.g. `D:\AuroraWin\`)
 3. Run **as administrator**
 
