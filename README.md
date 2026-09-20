@@ -3,6 +3,7 @@
 ---
 
 ## 🇷🇺 Русский
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d0f7dafe-bec8-4900-96f4-8702ab730b1b" />
 
 **Профессиональный кастомизатор и оптимизатор Windows 11 с гарантией безопасности**
 
@@ -122,6 +123,7 @@ MIT © [QwixxTwix](https://github.com/QwixxTwix)
 ---
 
 ## 🇬🇧 English
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f74ca859-7118-4a22-ace5-0c05b5f2a17e" />
 
 **Professional Windows 11 customizer and optimizer with safety guarantee**
 
